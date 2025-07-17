@@ -1,1 +1,27 @@
-# Fantastic-Adventures
+# Factastic Adventures
+
+🎮 **Descripción del proyecto**  
+Este proyecto fue desarrollado usando [Greenfoot](https://www.greenfoot.org/), una plataforma de desarrollo educativo basada en Java. Este proyecto tiene como fin aprender de forma didactica la programación orientada a objetos.
+
+📌 **Características principales**
+- Programado en Java usando Greenfoot
+- Interacción mediante teclado y/o mouse
+- [Tipo de juego: plataforma / shooter / educativo / simulador]
+- Recursos gráficos personalizados / tomados de la librería de Greenfoot
+
+📷 **Captura del juego**  
+![Captura](captura.png)
+
+▶️ **Video de demostración**  
+[![Ver en YouTube](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+
+🛠️ **Requisitos para ejecutar el proyecto**
+- Descargar o clonar este repositorio
+- Extraer el contenido de las partes en formato zip (dejará un archivo gfar)
+- Tener instalado [Greenfoot](https://www.greenfoot.org/download)
+- Abrir el archivo `.gfar` con Greenfoot
+
+👨‍💻 **Autor**
+- Jeison Alexis Rodiguez Angarita 🙍‍♂️
+- Programacion Orientada a Objetos / Ingeniería de Sistemas / Universidad de Pamplona 👨‍🎓
+- 2024 🌎
