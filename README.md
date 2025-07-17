@@ -9,10 +9,10 @@ Este proyecto fue desarrollado usando [Greenfoot](https://www.greenfoot.org/), u
 - [Tipo de juego: plataforma / shooter / educativo / simulador]
 - Recursos gráficos personalizados / tomados de la librería de Greenfoot
 
-📷 **Captura del juego**  
+📷 **Capturas del juego**  
 ![Captura](captura.png)
 
-▶️ **Video de demostración**  
+▶️ **Trailer**  
 [![Ver en YouTube](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
 
 🛠️ **Requisitos para ejecutar el proyecto**
