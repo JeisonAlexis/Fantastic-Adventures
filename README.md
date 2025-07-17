@@ -5,9 +5,8 @@ Este proyecto fue desarrollado usando [Greenfoot](https://www.greenfoot.org/), u
 
 📌 **Características principales**
 - Programado en Java usando Greenfoot
-- Interacción mediante teclado y/o mouse
-- [Tipo de juego: plataforma / shooter / educativo / simulador]
-- Recursos gráficos personalizados / tomados de la librería de Greenfoot
+- Interacción mediante teclado, mouse y/o control
+- Tipo de juego: plataforma (Solo/Coop)
 
 📷 **Capturas del juego**  
 ![Captura](captura.png)
