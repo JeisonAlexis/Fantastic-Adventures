@@ -7,9 +7,23 @@ Este proyecto fue desarrollado usando [Greenfoot](https://www.greenfoot.org/), u
 - Programado en Java usando Greenfoot
 - Interacción mediante teclado, mouse y/o control
 - Tipo de juego: plataforma (Solo/Coop)
+- Personajes con habilidades y caracteristicas especiales
 
-📷 **Capturas del juego**  
-![Captura](captura.png)
+📷 **Capturas del juego**
+- Menu principal
+![Captura](menu_juego.png)
+
+- Menu modo (Solo/Coop)
+![Captura](modo_juego.png)
+
+- Menu Personajes
+![Captura](personajes_juego.png)
+
+- Juego
+![Captura](juego.png)
+
+- Menu GameOver
+![Captura](gameover_juego.png)
 
 ▶️ **Trailer**  
 [![Ver en YouTube](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
