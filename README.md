@@ -19,8 +19,11 @@ Este proyecto fue desarrollado usando [Greenfoot](https://www.greenfoot.org/), u
 - Menu Personajes
 ![Captura](personajes_juego.png)
 
-- Juego
+- Modo Solo
 ![Captura](juego.png)
+
+- Modo Coop
+![Captura](coop_juego.png)
 
 - Menu GameOver
 ![Captura](gameover_juego.png)
