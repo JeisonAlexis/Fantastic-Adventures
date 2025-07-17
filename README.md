@@ -16,7 +16,7 @@ Este proyecto fue desarrollado usando [Greenfoot](https://www.greenfoot.org/), u
 
 🛠️ **Requisitos para ejecutar el proyecto**
 - Descargar o clonar este repositorio
-- Extraer el contenido de las partes en formato zip (dejará un archivo gfar)
+- Extraer el contenido de las partes en formato `.rar`  (dejará un archivo gfar)
 - Tener instalado [Greenfoot](https://www.greenfoot.org/download)
 - Abrir el archivo `.gfar` con Greenfoot
 
