@@ -40,4 +40,4 @@ Este proyecto fue desarrollado usando [Greenfoot](https://www.greenfoot.org/), u
 👨‍💻 **Autor**
 - Jeison Alexis Rodiguez Angarita 🙍‍♂️
 - Programacion Orientada a Objetos / Ingeniería de Sistemas / Universidad de Pamplona 👨‍🎓
-- 2024 🌎
+- 2024 📅 
