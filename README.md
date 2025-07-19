@@ -1,4 +1,4 @@
-# Factastic Adventures
+# ✨ **Factastic Adventures** ✨
 
 🎮 **Descripción del proyecto**  
 Este proyecto fue desarrollado usando [Greenfoot](https://www.greenfoot.org/), una plataforma de desarrollo educativo basada en Java. Este proyecto tiene como fin aprender de forma didactica la programación orientada a objetos.
