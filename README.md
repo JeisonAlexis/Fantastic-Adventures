@@ -29,7 +29,9 @@ Este proyecto fue desarrollado usando [Greenfoot](https://www.greenfoot.org/), u
 ![Captura](gameover_juego.png)
 
 ▶️ **Trailer**  
-[![Ver en YouTube](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+<a href="https://www.youtube.com/watch?v=JymNwXiSfvA" target="_blank">
+  <img src="https://img.youtube.com/vi/JymNwXiSfvA/hqdefault.jpg" width="950" height="700" alt="Ver video">
+</a>
 
 🛠️ **Requisitos para ejecutar el proyecto**
 - Descargar o clonar este repositorio
