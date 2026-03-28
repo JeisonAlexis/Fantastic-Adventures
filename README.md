@@ -29,9 +29,19 @@ Este proyecto fue desarrollado usando [Greenfoot](https://www.greenfoot.org/), u
 ![Captura](gameover_juego.png)
 
 ▶️ **Trailer**  
-<a href="https://youtu.be/-yswX5r-xcQ" target="_blank">
-  <img src="https://img.youtube.com/vi/-yswX5r-xcQ/hqdefault.jpg" width="950" height="700" alt="Ver video">
-</a>
+
+<div align="center">
+  <a href="https://youtu.be/-yswX5r-xcQ">
+    <img src="https://img.youtube.com/vi/-yswX5r-xcQ/hqdefault.jpg" alt="PROYECTO SMS GATEWAY" width="600">
+  </a>
+
+  <br>
+
+  <a href="https://youtu.be/-yswX5r-xcQ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+</div>
 
 🛠️ **Requisitos para ejecutar el proyecto**
 - Descargar o clonar este repositorio
